@@ -25,7 +25,7 @@ tagline: "The blog for adults who can't code good and want to learn how to do ot
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "www.comegetlearnt.com"
 
 github:
   username: nareyes # change to your github username
@@ -40,14 +40,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Nick Reyes
-  email: comegetlearnt@pm.me # change to your email address
+  email: nareyes_git@pm.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # https://twitter.com/username # change to your twitter homepage
-    # - https://github.com/nareyes # change to your github homepage
-    # Uncomment below to add more social links
+    - https://github.com/nareyes # change to your github homepage
+    - https://www.linkedin.com/in/na-reyes
+    # - https://twitter.com/username # change to your twitter homepage
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/na-reyes
+
 
 google_site_verification: # fill in to your verification string
 
@@ -82,7 +82,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/D5603AQGjhywR2-WeHQ/profile-displayphoto-shrink_800_800/0/1666812795574?e=1685577600&v=beta&t=ydpm_V7cm_xFDbPhPF9GB70C4XBM1FJakJ_3YtXhjXA
 
 # boolean type, the global switch for TOC in posts.
 toc: true
