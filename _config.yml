@@ -20,7 +20,7 @@ timezone: America/Chicago
 
 title: Get Learnt # the main title
 
-tagline: "The blog for adults who can't code good and want to learn how to do other stuff good too." # it will display as the sub-title
+tagline: "The blog for adults who can't read good and want to learn how to do other stuff good too." # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
