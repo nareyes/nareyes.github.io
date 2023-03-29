@@ -20,13 +20,9 @@ yea, I happened to be in Africa at the time). I was desperate! It took some time
 Learning by Peter Brown. It was the first development book I read multiple times, highlighted, took notes, and generally loved. Something incredible happened after I read this book; School 
 became easier, reading became easier, my learning confidence soared, and I oddly started to enjoy the process of learning.
 
-Fast forward 5ish years to today. I work as a business consultant and a self-described data analyst. What does that mean exactly? Well, my official title is Business Consultant, but I love to 
-leverage data in my role. I've taken it upon myself to explore data science and implement various analysis tools and languages in my work, like Power BI and R Studio. Anywho, I digress. I'm 
-about a year from graduating with my BS and have plans to pursue an MS in Statistics or Data Science so I can officially transition to the wonderful world of data science.
-
 Throughout this journey, I've applied the strategies I've learned along the way to excel in school and do an immense amount of development. I've read countless books and actually recall what 
 I've learned, taken courses, certifications, and learned from peers. Which brings me to the purpose of creating this blog, to share the various things I learn in an easily digestible format. Why 
-is this different than any of the other book summary blogs out there? I don't know, and I don't care, to be honest. I love to learn new things and enjoy doing this, so I want to share it with 
+is this different than any of the other book/technical blogs out there? I don't know, and I don't care, to be honest. I love to learn new things and enjoy doing this, so I want to share it with 
 you. Selfishly, writing helps solidify the learning process and is a skill I want to develop, so it's a win-win. I hope that readers who stumble across this blog can learn a thing or two and 
 share takeaways and input so we can all Get Learnt together.
 
