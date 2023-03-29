@@ -1,13 +1,13 @@
 # filename: YYYY-MM-DD-title.md
 # dateformat: YYYY-MM-DD
-# parent categories: Blog, Books, Technical
-# child categories: Data, Math & Stats, Learning, Personal Development
+# categories: Blog, Data, Learning, Math, Personal Development
 ---
 layout: post
 title: 
 date:
 categories: []
 tags: []
+img_path: nareyes.github.io/_imgs
 math: false
 mermaid: false
 ---

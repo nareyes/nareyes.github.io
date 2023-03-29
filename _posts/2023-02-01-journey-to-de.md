@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Journey to Data Engineering
-date: 2023-03-28
+date: 2023-03-01
 categories: [Blog]
 tags: [career]
+# img_path: /posts/imgs
 math: false
 mermaid: false
 ---
 
-# Heading 1
 
-Content
+## Test Image
+
+![Not Normalized](_imgs/not-normalized.png){: .normal }
