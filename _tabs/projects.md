@@ -1,5 +1,5 @@
 ---
 layout: projects
 icon: fas fa-bar-chart
-order: 6
+order: 3
 ---

@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-user
+order: 1
 ---
 
 My name is Nick, and I'm a learning enthusiast. I wasn't always this way. I struggled with learning for most of my life, but that started to change in 2016. Buckle up, kids... This is a
